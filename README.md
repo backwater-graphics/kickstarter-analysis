@@ -6,14 +6,14 @@ This project excel will track the data analysis of several play projects to unco
 ### Purpose
 The purpose of this excel project was to provide Louise with information from people who are successful at fundraising to finance their plays. It will also help her understand the specific factors that make a successful fundraising campaign, which will allow her to mirror those techniques so that her next fundraising campaign will be successful.
 
-The results from this analysis can be found here: Kickstarter_Challenge.xlsx
+The results from this analysis can be found here: ![kickstarter_challange](https://github.com/backwater-graphics/kickstarter-analysis/blob/main/Kickstarter_Challenge-MU.xlsx)
 ## Analysis and Challenges of the Outcomes Based on Launch Date
 Based on the Kickstarter Challenge excel data in order to preform the analysis of the Outcomes Based on Launch date we need to first convert the Unix timestamps to Human dates conversion with the Month, Date, and Year to set up the analysis, so that we can determine whether the timing was factor in successful fundraising campaigns. 
 After the conversion was done, we needed to setup a pivot table and pivot chart so that we could show and determine from the data if a campaign was Successful, Failed, or it was Canceled. The live campaigns were filtered out and the pivot table was sorted in ascending order by month to create the line chart.
 The analysis in the chart below shows both the number of campaigns as well as the success rate.
 ### Analysis of Outcomes Based on Launch Date
 
-![Parent Category Outcomes](https://github.com/backwater-graphics/kickstarter-analysis/blob/main/ParentCategoryOutcomes1.png)
+![Theater Outcomes Based on Launch Date](https://github.com/backwater-graphics/kickstarter-analysis/blob/main/ParentCategoryOutcomes1.png)
 ---
 ## Analysis and Challenges of the Outcomes Based on Goals
 Louise also wanted to know what the Outcomes Based on Goals pledged showed toward successful campaigns. So based on the Kickstarter Challenge excel data we needed to setup a table with 12 ranges of $Pledged by goal
