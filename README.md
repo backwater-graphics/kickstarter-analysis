@@ -1,9 +1,11 @@
 # Kickstarting with Excel
 ## Overview
 Louise reached out after her play Fever fell short of its fundraising goal, which the fundraiser they ran only for a small amount of time. She wants to know how the different play campaigns fared in relation to their launch dates and their funding goals. 
+
 This project excel will track the data analysis of several play projects to uncover the trends of the campaign’s outcomes, whether it was successful, it failed, or it was concealed. This project will also show the correlation based off the launched date and the funding goal.
 ### Purpose
 The purpose of this excel project was to provide Louise with information from people who are successful at fundraising to finance their plays. It will also help her understand the specific factors that make a successful fundraising campaign, which will allow her to mirror those techniques so that her next fundraising campaign will be successful.
+
 The results from this analysis can be found here: Kickstarter_Challenge.xlsx
 ## Analysis and Challenges of the Outcomes Based on Launch Date
 Based on the Kickstarter Challenge excel data in order to preform the analysis of the Outcomes Based on Launch date we need to first convert the Unix timestamps to Human dates conversion with the Month, Date, and Year to set up the analysis, so that we can determine whether the timing was factor in successful fundraising campaigns. 
